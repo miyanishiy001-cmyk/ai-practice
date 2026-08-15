@@ -1,0 +1,21 @@
+# Build output & compiled classes
+**/target/
+*.class
+
+# IDE & Editor temporary files
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node / Frontend temporary files
+**/node_modules/
+**/dist/
+
+# Local database runtime files
+**/data/
+*.mv.db
+*.trace.db

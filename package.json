@@ -1,0 +1,21 @@
+{
+  "name": "ai-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://miyanishiy001-cmyk@github.com/miyanishiy001-cmyk/ai-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/miyanishiy001-cmyk/ai-practice/issues"
+  },
+  "homepage": "https://github.com/miyanishiy001-cmyk/ai-practice#readme"
+}
